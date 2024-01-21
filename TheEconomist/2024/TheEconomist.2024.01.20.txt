@@ -129,5 +129,218 @@ could track more than 300 targets simultaneously.
 "and damaged another Russian aircraft used for airborne command"：这是一个并列句，通过 "and" 连接了两个动作，描述了乌克兰在同一事件中对俄罗斯飞机的两次攻击。
 "The planes were being used to co-ordinate Russia’s ground operations"：这是一个被动语态的句子，用来说明这些飞机的用途，即协调俄罗斯的地面行动。
 "The spy plane could track more than 300 targets simultaneously"：这是一个能力句型，使用了 "could" 来表示间谍飞机的能力，即能够同时追踪超过300个目标。
+=====================================================================================================================================================
+The new government of the Maldives said it had asked India to withdraw
+the 80 or so troops it has stationed there by March 15th. Last year the Indian
+Ocean archipelago elected a new president, Mohamed Muizzu, who is
+strengthening ties with China and reducing his country’s long-standing
+reliance on India. The Indian foreign ministry did not give a timeline for any
+withdrawal.
 
+"The new government of the Maldives said it had asked India to withdraw the 80 or so troops it has stationed there by March 15th." - 这是一个复合句，主句是"The new government of the Maldives said"，后面跟了一个宾语从句"it had asked India to withdraw the 80 or so troops it has stationed there by March 15th"，其中包含了一个定语从句"it has stationed there"来修饰"troops"。
+"Last year the Indian Ocean archipelago elected a new president, Mohamed Muizzu, who is strengthening ties with China and reducing his country’s long-standing reliance on India." - 这是一个复合句，主句是"Last year the Indian Ocean archipelago elected a new president, Mohamed Muizzu"，后面跟了一个非限制性定语从句"who is strengthening ties with China and reducing his country’s long-standing reliance on India"来提供关于Mohamed Muizzu的额外信息。
+"The Indian foreign ministry did not give a timeline for any withdrawal." - 这是一个简单句，主语是"The Indian foreign ministry"，谓语是"did not give"，宾语是"a timeline for any withdrawal"。
+=====================================================================================================================================================
+North Korea’s dictator, Kim Jong Un, pivoted away from his country’s
+formal desire for unification with South Korea, ordering the closure of all
+state offices that had been working towards that goal. Mr Kim said his
+people should no longer think of South Koreans as “fellow countrymen”.
+Meanwhile North Korea’s foreign minister visited Russia for talks. North
+Korea is supplying Russia with weapons for its war on Ukraine.
+
+"North Korea’s dictator, Kim Jong Un, pivoted away from his country’s formal desire for unification with South Korea, ordering the closure of all state offices that had been working towards that goal." - 这是一个复合句，主句是"North Korea’s dictator, Kim Jong Un, pivoted away from his country’s formal desire for unification with South Korea"，后面跟了一个并列句"ordering the closure of all state offices that had been working towards that goal"，其中包含了一个定语从句"that had been working towards that goal"来修饰"state offices"。
+"Mr Kim said his people should no longer think of South Koreans as “fellow countrymen”." - 这是一个简单句，主语是"Mr Kim"，谓语是"said"，宾语是"his people should no longer think of South Koreans as “fellow countrymen”"。
+"Meanwhile North Korea’s foreign minister visited Russia for talks." - 这是一个简单句，主语是"North Korea’s foreign minister"，谓语是"visited"，宾语是"Russia"，后面跟了一个目的状语"for talks"。
+"North Korea is supplying Russia with weapons for its war on Ukraine." - 这是一个简单句，主语是"North Korea"，谓语是"is supplying"，宾语是"Russia with weapons"，后面跟了一个目的状语"for its war on Ukraine"
+=====================================================================================================================================================
+One of the ethnic rebel groups fighting the junta in Myanmar said it had
+captured the port town of Paletwa, a big trading hub that lies close to the
+border with India and Bangladesh. The Arakan Army has been fighting
+Burmese troops for several years. Along with other insurgents, it stepped up
+its operations after the army seized power in a coup in February 2021.
+
+"One of the ethnic rebel groups fighting the junta in Myanmar said it had captured the port town of Paletwa, a big trading hub that lies close to the border with India and Bangladesh." - 这是一个复合句，主句是"One of the ethnic rebel groups fighting the junta in Myanmar said"，后面跟了一个宾语从句"it had captured the port town of Paletwa"，其中包含了一个定语从句"that lies close to the border with India and Bangladesh"来修饰"trading hub"。
+"The Arakan Army has been fighting Burmese troops for several years." - 这是一个简单句，主语是"The Arakan Army"，谓语是"has been fighting"，宾语是"Burmese troops"，后面跟了一个时间状语"for several years"。
+"Along with other insurgents, it stepped up its operations after the army seized power in a coup in February 2021." - 这是一个复合句，主句是"it stepped up its operations"，后面跟了一个时间状语从句"after the army seized power in a coup in February 2021"，其中包含了一个介词短语"along with other insurgents"来修饰主语"it"。
+=====================================================================================================================================================
+Bernardo Arévalo was sworn in as Guatemala’s president. Since his
+landslide election victory last August, sections of Guatemala’s political elite
+have done their utmost to stop the anti-corruption Mr Arévalo from taking
+office. His swearing-in ceremony was delayed by nine hours amid more
+shenanigans from his opponents in Congress, underlining the huge battle he
+faces fighting corruption.
+
+"Since his landslide election victory last August" - 这个句型使用了现在完成时，表示从过去的某个时间点（去年八月）开始一直持续到现在的状态。
+"have done their utmost to stop..." - 这个句型使用了现在完成时态，表示从过去到现在一直在努力做某事。
+"His swearing-in ceremony was delayed by nine hours amid more shenanigans from his opponents in Congress" - 这个复合句包含了被动语态和介词短语 "amid more shenanigans"，用来描述宣誓就职仪式被推迟的情况以及原因。
+"underlining the huge battle he faces fighting corruption" - 这个句型使用了现在分词短语 "underlining" 作为结果状语，强调了总统面临的挑战。
+=====================================================================================================================================================
+In Ecuador the prosecutor who was leading an investigation into the recent
+storming of a television station by an armed gang was assassinated,
+according to the country’s attorney-general. César Suárez was shot dead in
+the city of Guayaquil, the centre of most of the violence that has rocked the
+new government.
+
+被动语态：句子中的主语是动作的承受者，而不是执行者。例如，“was assassinated”（被暗杀）。
+现在完成时：用于描述过去发生的动作对现在的影响或结果。例如，“has been rocked”（一直受到冲击）。
+地点状语：描述事件发生的地点。例如，“in the city of Guayaquil”（在瓜亚基尔市）。
+结果状语：描述动作的结果。例如，“the centre of most of the violence”（大部分暴力的中心）。
+=====================================================================================================================================================
+The pace of deforestation in Brazil’s Amazon forest fell by 50% in 2023
+over the previous year, according to the government. Satellite data showed
+that 5,153 square kilometres (1,990 square miles) were bulldozed, the
+smallest area since 2018. Deforestation soared under the presidency of Jair
+Bolsonaro.
+
+比较级：使用了“fell by 50%”来表示下降的程度，这是一个比较级结构。
+被动语态：句子中的“were bulldozed”是被动语态，表示土地被推平。
+现在完成时：通过“since 2018”的使用，暗示了自2018年以来的变化，这是一种现在完成时的用法。
+过去分词作定语：在“the smallest area since 2018”中，过去分词“since”用作定语，修饰“area”。
+=====================================================================================================================================================
 ######################################################################################################################################################
+China’s economy grew by 5.2% last year, just above the government’s
+target of 5%. Speaking at Davos, Li Qiang, China’s prime minister, crowed
+that the government had not had to resort to massive stimulus to achieve an
+economic rebound. However, the figure is a comparison with the low base of
+2022, when GDP expanded by just 3% because of pandemic restrictions.
+Investors weren’t impressed. Chinese stockmarkets extended their rout from
+the start of 2024, despite the authorities ordering some institutional investors
+not to sell shares. China’s population also fell in 2023 for the second year,
+by 2m people to 1.409bn.
+
+被动语态：句子中的“had not had to resort to”使用了被动语态，表示政府没有采取某种行动。
+比较级：使用了“just above”来表示经济增长略高于目标。
+因果关系：通过“because of pandemic restrictions”表达了GDP增长低的原因。
+转折句型：通过“However”引入转折，指出尽管有增长，但这个增长是基于低基数。
+现在完成时：通过“has fallen”表示人口数量的下降是一个持续到现在的动作。
+数量变化：使用了“by 2m people”来表示人口数量的具体减少量。
+=====================================================================================================================================================
+German GDP was 0.3% smaller in 2023 than the previous year, as higher
+prices hit household consumption and trade. The economy may have
+avoided a recession in the second half of the year, just. An initial estimate
+showed GDP shrinking by 0.3% in the fourth quarter over the third quarter,
+but the statistics office now says that in the third quarter the economy merely
+“stagnated”.
+
+比较级：使用了“smaller”来描述GDP的减少程度。
+因果关系：通过“as higher prices hit household consumption and trade”表达了价格上涨对经济的影响。
+条件句：通过“may have avoided”表达了经济可能避免了衰退的情况。
+现在完成时：通过“says”表示统计局现在的说法，强调了最新信息。
+并列句：通过“but”连接了两个句子，形成了对比
+=====================================================================================================================================================
+Britain recorded an unexpected rise in inflation. The annual rate rose to 4%
+in December, the first increase in ten months. Coming after a surprise
+increase in America’s inflation rate (to 3.4% in December) and a rise in the
+euro zone’s (to 2.9%) investors are pushing back their estimates of when
+central banks will cut interest rates. Christine Lagarde, president of the
+European Central Bank, hinted this week that the ECB won’t start reducing
+rates until the middle of the year.
+
+现在完成时：通过“recorded”和“rose”表示过去发生的动作对现在的影响。
+时间状语：使用了“in December”和“the first increase in ten months”来描述事件发生的时间。
+比较级：通过“rose to 4%”和“increased to 3.4%”来描述通货膨胀率的上升。
+因果关系：通过“Coming after”和“investors are pushing back their estimates”表达了美国和欧元区通胀率上升对投资者预期的影响。
+条件句：通过“won't start reducing rates until”表达了欧洲央行降息的条件。
+现在进行时：通过“hinted”表示正在进行的动作或最近发生的事情。
+=====================================================================================================================================================
+America’s big banks reported a mixed bag of earnings. Net profit at
+Goldman Sachs was $2bn in the fourth quarter, which was better than
+markets had expected. But its annual profit of $8.5bn was its worst in four
+years. Morgan Stanley’s 12-month profit of $9.1bn was also its worst since
+2019. By contrast, JPMorgan Chase’s net profit of $49.6bn was a record for
+the bank, which benefited more than its rivals from higher interest rates.
+Citigroup is slashing at least 20,000 jobs, a tenth of its workforce. It reported
+a hefty loss for the fourth quarter related in part from its exposure to Russia.
+
+比较级：通过“better than markets had expected”和“its worst in four years”来描述高盛和摩根士丹利的利润表现。
+因果关系：通过“which benefited more than its rivals from higher interest rates”来解释摩根大通利润创纪录的原因。
+现在完成时：通过“is slashing”来描述花旗集团正在进行的裁员行动。
+现在分词作定语：在“related in part from its exposure to Russia”中，现在分词“related”用作定语，修饰“loss”。
+=====================================================================================================================================================
+BlackRock struck a deal to buy Global Infrastructure Partners for
+$12.5bn. It is the asset manager’s biggest acquisition since 2009, when it
+bought Barclays Global Investors. GIS owns infrastructure and energy
+assets, including London’s Gatwick and City airports.
+
+现在完成时：通过“struck a deal”和“bought”来描述已经完成的交易。
+比较级：通过“biggest acquisition since 2009”来表示这次收购是自2009年以来最大的。
+定语从句：在“when it bought Barclays Global Investors”中，使用了定语从句来提供更多关于2009年收购的信息。
+现在完成时的被动语态：在“GIS owns infrastructure and energy assets”中，使用了被动语态来描述GIS拥有的资产。
+=====================================================================================================================================================
+A federal judge blocked JetBlue Airways’ proposed takeover of Spirit
+Airlines, finding that the merger of America’s sixth-and seventh-largest
+carriers would hurt competition. The $3.8bn deal was announced in July
+2022 and had been delayed in the courts ever since.
+
+被动语态：通过“blocked”和“had been delayed”使用了被动语态，描述了收购被阻止和交易被延迟的情况。
+现在完成时：通过“had been delayed”表示从过去某一时间点开始一直持续到现在的状态。
+过去完成时：在“had been delayed”中，过去完成时用来强调从过去某个时间点到另一个过去时间点的持续状态。
+定语从句：在“the merger of America’s sixth-and seventh-largest carriers”中，定语从句用来修饰“merger”，提供更多信息。
+现在完成时的被动语态：在“had been delayed”中，现在完成时的被动语态用来描述交易被延迟的状态。
+=====================================================================================================================================================
+Kroger and Albertsons pushed back the date by which they hope to
+complete their proposed merger, as talks continue with the Federal Trade
+Commission and state regulators about combining the two supermarket
+giants. Meanwhile Washington state asked a judge to halt the deal, arguing
+that it would lead to higher prices for consumers.
+
+现在完成时：通过“pushed back”和“continue”使用了现在完成时，描述了推迟合并日期和谈判正在进行的状态。
+被动语态：在“asked a judge to halt the deal”中使用了被动语态，表明华盛顿州是请求方，法官是执行方。
+现在进行时：通过“arguing”使用了现在进行时，描述了华盛顿州正在进行的主张。
+条件句：通过“if it would lead to”表达了一个条件，即如果合并会导致消费者价格上涨。
+=====================================================================================================================================================
+Shell sold its 68-year-old onshore-oil business in Nigeria to a consortium of
+mostly local companies. Like other energy giants that have withdrawn from
+the Delta region, Shell has grappled with damage to infrastructure, often
+blamed on communities suffering from damage to their environment.
+Meanwhile, BP confirmed Murray Auchincloss as its new chief executive;
+he has held the job on an interim basis since the resignation of Bernard
+Looney last September.
+
+被动语态：通过“sold”和“confirmed”使用了被动语态，描述了壳牌出售业务和英国石油公司确认新首席执行官的动作。
+现在完成时：通过“has held”表示从过去某一时间点开始一直持续到现在的状态。
+过去分词作定语：在“the new chief executive”中，过去分词“new”用作定语，修饰“chief executive”。
+现在完成时的被动语态：在“confirmed”中，现在完成时的被动语态用来描述确认新首席执行官的动作。
+=====================================================================================================================================================
+Apple passed Samsung last year to become the world’s biggest seller of
+smartphones by volume, according to IDC, a market-research firm (Apple
+has long been the most profitable smartphone-maker). Apple shipped nearly
+235m of the devices, 4% more than in 2022 and despite a downturn in the
+wider market. That compared with Samsung’s 227m, a drop of 14%.
+Transsion, a Chinese manufacturer, made the top five by selling lots of its
+phones in Africa.
+
+比较级：通过“passed Samsung”和“a drop of 14%”使用了比较级，描述了苹果和三星在智能手机销量上的变化。
+现在完成时：通过“has long been”和“made the top five”使用了现在完成时，表示从过去某一时间点开始一直持续到现在的状态。
+被动语态：在“made the top five”中使用了被动语态，描述了传音公司进入前五名的事实。
+现在完成时的被动语态：在“has long been”中，现在完成时的被动语态用来描述苹果公司长期以来的盈利状况。
+=====================================================================================================================================================
+The news was a fillip for Apple in a week when Microsoft pipped it to
+become the most valuable company. Microsoft is now worth around
+$2.9trn on the stockmarket, compared with Apple’s $2.8trn.
+
+现在完成时：通过“pipped it to become”使用了现在完成时，描述了微软超越苹果成为最有价值的公司的动作。
+比较级：通过“worth around 2.9trn compared with Apple’s 2.8trn”使用了比较级，比较了微软和苹果的市值。
+被动语态：在“pipped it to become”中，使用了被动语态来描述微软超越苹果的情况。
+=====================================================================================================================================================
+The revolution in chipmaking spurred another big takeover, as Synopsys,
+which makes software tools for chip design, agreed to buy Ansys, which
+provides engineering simulation software to a variety of industries, for
+$35bn.
+
+过去分词作定语：在“which makes software tools for chip design”中，过去分词“makes”用作定语，修饰“Synopsys”。
+现在完成时：通过“agreed to buy”使用了现在完成时，表示过去发生的动作对现在的影响。
+被动语态：在“agreed to buy”中，使用了被动语态来描述新思科技同意收购安赛乐的动作。
+=====================================================================================================================================================
+An annual survey of global chief executives by PwC found that a quarter of
+them expect to cut their workforce by at least 5% this year because of
+generative artificial intelligence. Those cuts are already starting to
+materialise, with Google reportedly laying off hundreds in advertising and
+Amazon making hundreds of redundancies in its streaming business, both
+because of AI.
+
+现在完成时：通过“found that”使用了现在完成时，表示调查的结果。
+被动语态：在“expect to cut”和“are already starting to materialise”中使用了被动语态，描述首席执行官的预期和裁员的开始。
+现在进行时：通过“reportedly laying off”使用了现在进行时，表示正在进行的动作。
+现在完成时的被动语态：在“are already starting to materialise”中，现在完成时的被动语态用来描述裁员已经开始的事实。
+=====================================================================================================================================================
